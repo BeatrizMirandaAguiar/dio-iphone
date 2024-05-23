@@ -16,9 +16,9 @@ O projeto conta com duas classes, onde:
 
 O projeto conta com três interfaces, onde:
 
-- `ReprodutorMusical` : possui 3 métodos públicos sem retorno: `tocar()`, `pausar()` e `selecionarMusica()`
-- `AparelhoTelefonico` : possui 3 métodos públicos sem retorno: `ligar()`, `atender()` e `iniciarCorreioVoz()`
-- `NavegadorNaInternet` : possui 3 métodos públicos sem retorno: `tocar()`, `adicionarNovaAba()` e `atualizarPagina()`
+- `ReprodutorMusical` : possui 3 métodos públicos sem retorno `tocar()`, `pausar()` e `selecionarMusica()`
+- `AparelhoTelefonico` : possui 3 métodos públicos sem retorno `ligar()`, `atender()` e `iniciarCorreioVoz()`
+- `NavegadorNaInternet` : possui 3 métodos públicos sem retorno `tocar()`, `adicionarNovaAba()` e `atualizarPagina()`
 
 O projeto também contém um diagrama de classes como o abaixo:
 
