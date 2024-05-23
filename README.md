@@ -1,3 +1,30 @@
-# dio-iphone
+# Lab de Interface
 
-![Diagrama de Classes](https://github.com/BeatrizMirandaAguiar/dio-iphone/assets/106684045/6e8429ec-6865-4968-a2c5-0bf3d23bb925)
+Desafio do Bootcamp Santander 2024 - Backend com Java da [DIO](https://www.dio.me/en).
+
+Para saber mais informações sobre o desafio, acesse https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo
+
+#### Autora:
+[Beatriz Miranda Aguiar](https://github.com/BeatrizMirandaAguiar)
+
+## Estrutura do projeto
+
+O projeto conta com duas classes, onde:
+
+- `User` : classe principal que sustenta as operações requisitadas e interage com o User
+- `Iphone` : classe que implementa os métodos das interfaces
+
+O projeto conta com três interfaces, onde:
+
+- `ReprodutorMusical` : possui 3 métodos públicos sem retorno: `tocar()`, `pausar()` e `selecionarMusica()`
+- `AparelhoTelefonico` : possui 3 métodos públicos sem retorno: `ligar()`, `atender()` e `iniciarCorreioVoz()`
+- `NavegadorNaInternet` : possui 3 métodos públicos sem retorno: `tocar()`, `adicionarNovaAba()` e `atualizarPagina()`
+
+O projeto também contém um diagrama de classes como o abaixo:
+
+![Diagrama de Classes](https://github.com/BeatrizMirandaAguiar/dio-iphone/assets/106684045/9526df85-152a-4485-a1e7-2961ff9814d8)
+
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
